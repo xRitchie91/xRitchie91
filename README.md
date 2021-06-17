@@ -1,4 +1,4 @@
-👋 Hi, I’m Ritchie, I'm a student full stack web developer studying with The University of Texas.
+👋 Hi, I’m Ritchie, I'm a student full stack web developer student studying with The University of Texas.
 - 👀 I’m interested in sports and learning new things.
 - 📫 How to reach me ...
 
