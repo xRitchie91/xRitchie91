@@ -1,6 +1,7 @@
 👋 Hi, I’m Ritchie, I'm a student full stack web developer studying with The University of Texas.
-- 👀 I’m interested in sports and learning new things.
-- 📫 How to reach me:
+
+
+📫 How to reach me:
 - email: r.ortiz54@yahoo.com
 - [Linkedin](https://www.linkedin.com/in/rportiz/) 
 
