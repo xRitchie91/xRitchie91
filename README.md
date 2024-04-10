@@ -5,7 +5,7 @@ I am comfortable and adaptable to ever changing environments, easily collaborati
 📫 How to reach me:
 - email: rportiz91@gmail.com
 - [Linkedin](https://www.linkedin.com/in/rportiz/)
-- [View My Resume]()
+- [View My Resume](https://xritchie91.github.io/Portfolio/)
 
 <!---
 xRitchie91/xRitchie91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
